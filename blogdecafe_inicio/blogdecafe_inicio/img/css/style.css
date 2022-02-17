@@ -23,7 +23,7 @@ body {
 /* Globales */  
 .contenedor{
     max-width: 120rem;
-    width: 90%; /* Nueva modificación de CSS, quitamos las dos primeras líneas de código: width:min (90€, 120rem); */
+    width: 90%; /* Nueva modificación de CSS, quitamos las dos primeras líneas de código: width:min (90%, 120rem); */
     margin:  0 auto;
 }
 a {
